@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "EstimatedChargesThreshold",
+    "ParameterValue": "25"
+  },
+  {
+    "ParameterKey": "EmailAddress",
+    "ParameterValue": "me@example.com"
+  }
+]
