@@ -1,6 +1,6 @@
 [
   {
-    "ParameterKey": "EstimatedChargesThreshold",
+    "ParameterKey": "EstimatedChargesThresholdUsd",
     "ParameterValue": "25"
   },
   {
